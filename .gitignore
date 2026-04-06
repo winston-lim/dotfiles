@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+
+# Tmux plugins (reinstall with `prefix + I` after cloning tpm)
+tmux/plugins/
+
+# Kitty backup config
+kitty/kitty.conf.bak
+
+# Neovim plugin lockfile
+nvim/lazy-lock.json
+
+# GitHub Copilot (contains auth tokens)
+github-copilot/
+
+# App-specific data, not useful as dotfiles
+configstore/
+gatsby/
+filezilla/
+truffle/
